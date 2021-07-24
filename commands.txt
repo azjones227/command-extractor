@@ -1,0 +1,76 @@
+sudo apt install vagrant
+sudo apt install git
+sudo apt install sshfs
+sudo apt install virt-manager
+sudo apt install chef
+sudo apt install vagrant
+sudo apt-get install apt-transport-https
+sudo apt-get install sublime-text
+pip install requests
+sudo apt install python3-pip
+sudo apt install sshfs
+sudo apt install sshfs
+cat .bash_history | grep install
+sudo apt-get install apt-transport-https
+sudo apt install git sshfs virt-manager vagrant python3-pip sublime-text
+sudo apt install acpi
+sudo apt-get install software-properties-common
+sudo apt-get install kodi
+sudo apt install spiceclientgtk
+sudo apt install spice
+sudo apt install spice-client-gtk
+sudo apt install gir1.2-spiceclientgtk-3.0
+sudo apt-get install apt-transport-https
+sudo apt-get install sublime-text
+sudo pip install setuptools
+pip install glances
+sudo apt install screen
+sudo apt install git curl wget sed
+sudo apt-get install apt-transport-https
+sudo apt install git ssh sshfs virt-manager vagrant python3-pip sublime-text
+sudo apt install chrome-gnome-shell
+sudo apt install samba
+sudo apt install inetutils-traceroute
+sudo apt install linux-headers-generic anbox-modules-dkms
+sudo apt install linux-headers-generic anbox-modules-dkms
+sudo apt install anbox-modules-dkms
+sudo apt install dkms
+sudo apt install anbox-modules-dkms
+sudo apt install anbox-modules-dkms
+sudo dkms install anbox-ashmem/1
+sudo dkms install anbox-binder/1
+snap install --devmode --beta anbox
+sudo apt-get install android-tools-adb
+adb install AF3DWBfkGpzLDiMDFxTo4XhicYUCStAldu_bYSMV_CIXaT0cwqerGaD8bPlzuQ1ozc65lZ2WXuQ3i6GHMnIGfE4eGXbsUwSPyEG6r8OzckEQbI-tS3phwFC_ekROEJnmR4JXw84LqFRT2IxcA6EhLAv6CQfv6EV7Og 
+adb install AF3DWBfkGpzLDiMDFxTo4XhicYUCStAldu_bYSMV_CIXaT0cwqerGaD8bPlzuQ1ozc65lZ2WXuQ3i6GHMnIGfE4eGXbsUwSPyEG6r8OzckEQbI-tS3phwFC_ekROEJnmR4JXw84LqFRT2IxcA6EhLAv6CQfv6EV7Og.apk
+sudo apt install wget lzip unzip squashfs-tools
+wget https://raw.githubusercontent.com/geeks-r-us/anbox-playstore-installer/master/install-playstore.sh
+chmod +x install-playstore.sh
+sudo ./install-playstore.sh
+sudo ./install-playstore.sh --clean
+sudo apt-get install ms-sys
+./install-depot-multisystem.sh 
+sudo ./install-depot-multisystem.sh 
+sudo apt install multisystem
+sudo apt install npm
+npm install express --save
+sudo apt-get install ntfs-3g.
+sudo apt install gparted
+sudo apt install --install-recommends winehq-stable
+sudo apt install ppa-purge
+sudo apt install apache2
+sudo apt install ovmf
+sudo apt-get install openjdk-8-jre
+cd kali-linux-2020-1b-installer-amd64-iso/
+shasum kali-linux-2020.1b-installer-amd64.iso
+shasum -a 256 kali-linux-2020.1b-installer-amd64.iso
+dd if=kali-linux-2020.1b-installer-amd64.iso of=/dev/sda bs=512k
+sudo dd if=kali-linux-2020.1b-installer-amd64.iso of=/dev/sda bs=512k
+sudo apt-get install apt-transport-https
+sudo apt-get install linux-headers-surface linux-image-surface linux-libc-dev-surface surface-ipts-firmware linux-surface-secureboot-mok libwacom-surface
+sudo apt install sublime-text
+sudo apt-get -y install apache2
+sudo apt install git curl wget sed
+sudo apt-get install unrar
+sudo apt -y install npm
+sudo apt install torbrowser-launcher
